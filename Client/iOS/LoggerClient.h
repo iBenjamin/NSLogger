@@ -66,7 +66,6 @@ enum {
 								 kLoggerOption_BrowseBonjour |				\
 								 kLoggerOption_BrowsePeerToPeer |			\
 								 kLoggerOption_BrowseOnlyLocalDomain |		\
-								 kLoggerOption_UseSSL |						\
 								 kLoggerOption_CaptureSystemConsole)
 
 // The Logger struct is no longer public, use the new LoggerGet[...] functions instead
